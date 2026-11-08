@@ -43,7 +43,7 @@ Creating the schematic and writing this entry took me about 2 hours. Next, I'll 
 
 In Entry 1 I chose the idea and drew the schematic. In this session I designed the mechanical part of my motor in Onshape: the rotor, the base, the coil bobbin, the sensor holder and the axis with bearings. Then I put everything together in an assembly and checked how the parts fit. After that I wrote the README and filled in the bill of materials.
 
-### 1. Rotor (time: [~0.4 h])
+### 1. Rotor (time: ~0.4 h)
 
 The rotor is a printed disc, 80 mm in diameter and 8 mm thick, with a hub in the middle. It has:
 
@@ -51,13 +51,13 @@ The rotor is a printed disc, 80 mm in diameter and 8 mm thick, with a hub in the
 - a 16 mm hole through the middle, so that only the outer rings of the bearings touch the rotor,
 - two pockets for 10 x 3 mm neodymium magnets on the opposite sides of the axis, 30 mm from the center. Both magnets will have the same pole facing the coil, because  A3144 Hall sensor reacts only to the south pole.
 
-### 2. Base, coil bobbin and sensor holder (time: [~0.6 h])
+### 2. Base, coil bobbin and sensor holder (time: ~0.6 h)
 
 - **Base:** a 120 x 120 x 8 mm plate with a hole for the axis and four mounting holes.
 - **Bobbin:** a printed spool for the coil (about 450 turns of 0.25 mm wire fit between the flanges). Its square peg goes into a square hole in the base, so the bobbin cannot turn.
 - **Sensor holder:** a small block with a pocket for the A3144, on the circle of the magnets, 50 degrees before the coil. The sensor must see the magnet before it reaches the coil, so the coil can pull the magnet forward. This position also sets the direction of rotation.
 
-### 3. Axis and bearings (time: [~0,4 h])
+### 3. Axis and bearings (time: ~0,4 h)
 
 The axis is an M8 x 40 bolt with its head sunk into the base. On it there are a 9 mm spacer, the lower bearing, a 2 mm spacer between the bearings, the upper bearing, a washer and a nut. The nut will only be tightened enough to hold the inner rings, so that the rotor spins freely. In Onshape I used a model of the 608 bearing that I found online .
 
@@ -69,7 +69,7 @@ The axis is an M8 x 40 bolt with its head sunk into the base. On it there are a 
 - The sensor holder was almost touching the bobbin, so I moved it
 - The bolt: I calculated the length from the stack of parts (base, spacer, two bearings, washer, nut) and chose M8 x 40.
 
-### 5. Assembly (time: [0.7h])
+### 5. Assembly (time: 0.7h)
 
 ![Zrzut ekranu 2026-11-08 124604](https://halflife.hackclub-assets.com/sessions/D1H5wjMaoqfsZfeTslugwWB4nIQcEzNR/2c0dd80dc7c3d2648de3459b84337b6b7335506deea365cfd97ffc628713e7a4.png)
 
@@ -77,8 +77,8 @@ I put all parts into an Onshape assembly. The rotor is connected to the base wit
 
 ![image](https://halflife.hackclub-assets.com/sessions/D1H5wjMaoqfsZfeTslugwWB4nIQcEzNR/9ddc8d4093b5ea02c4c757da2beb9ea5ffe4ad71cdf27c58f1d5510e8b29bed3.png)
 
-### 6. README and bill of materials (time: [1h])
+### 6. README and bill of materials (time: 1h)
 
-I wrote the README in my GitHub repository: how the motor works step by step, the electronics, the mechanical design, safety notes and a progress list. I also added the bill of materials with real prices and vendors. The coil wire, the magnets, the Hall sensors, the MOSFETs, the diodes and the bearings are all inside the $30 budget. [Total: $___.]
+I wrote the README in my GitHub repository: how the motor works step by step, the electronics, the mechanical design, safety notes and a progress list. I also added the bill of materials with real prices and vendors. The coil wire, the magnets, the Hall sensors, the MOSFETs, the diodes and the bearings are all inside the $30 budget. (Total: $29.83)
 
 [Timelapse](https://lookout.hackclub.com/api/media/10a380b9-3612-48d9-8066-543694fb1165/video.mp4)
