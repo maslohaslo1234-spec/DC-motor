@@ -36,7 +36,10 @@ I chose the P-channel MOSFET because the A3144 pulls its output low when it sees
 
 ## Mechanical design
 
-The model is made in Onshape (STEP and STL files are in `cad/`).
+The model is made in Onshape:
+https://cad.onshape.com/documents/5e1b1a74ffba5d8179451b37/w/749f37bce197d5164e74821c/e/9d904d3edbaf5cf01d2fa46c?renderMode=0&uiState=6af06d5d6e01b752608595d5 
+
+(STEP and STL files are in `cad/`).
 
 <img width="1457" height="765" alt="Zrzut ekranu 2026-11-08 124604" src="https://github.com/user-attachments/assets/47786014-04c9-40d7-81dc-756c31434f1f" />
 
