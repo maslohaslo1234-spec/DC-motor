@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 4.07h | 2 |
+| Week 5 | Tier 1 | 6.07h | 2 |
 
 ## Contents
 
@@ -37,7 +37,7 @@ Creating the schematic and writing this entry took me about 2 hours. Next, I'll 
 
 ### 2026-11-08: ## Week 5, Entry 2: the whole motor in CAD
 
-**2.07h**
+**4.07h**
 
 ## Week 5, Entry 2: the whole motor in CAD
 
