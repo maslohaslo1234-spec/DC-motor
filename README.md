@@ -67,11 +67,6 @@ https://cad.onshape.com/documents/5e1b1a74ffba5d8179451b37/w/749f37bce197d5164e7
 
 The gap between the magnets and the coil is about 2 mm, and between the magnets and the sensor also about 2 mm. A3144 is not very sensitive, so the gap has to be small.
 
-## Safety notes
-
-- Set the bench supply to **12 V** and the current limit to **1 A** before connecting the circuit. The gate of the MOSFET allows 20 V at most, so never go above 15 V.
-- The coil gets warm if the rotor is blocked. Do not leave the circuit powered and unattended.
-- Neodymium magnets are strong and can pinch fingers. Keep them away from the electronics and from other magnets.
 
 ## Project files
 
